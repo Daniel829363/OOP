@@ -16,6 +16,7 @@ int main() {
         {
         case 1:lab1z12(); break;
         case 2:lab2(); break;
+        //case 3:lab2(); break;
         default:break;
         }
     }

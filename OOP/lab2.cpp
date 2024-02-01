@@ -57,6 +57,10 @@ int lab2() {
         lab2z2();
         goto hh;
     }
+    else if (n == 3) {
+        lab2z3();
+        goto hh;
+    }
     else return 0;
 
     std::vector<Aeroflot> flights;  // Вектор для хранения объектов класса Aeroflot
