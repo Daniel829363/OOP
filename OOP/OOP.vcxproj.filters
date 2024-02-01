@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Lab1">
+      <UniqueIdentifier>{f37fb4de-69fe-4b4a-b213-dee55406511e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Lab2">
+      <UniqueIdentifier>{dd672895-3d3b-45a6-93af-0f63410ffe07}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Lab1%281,2%29.cpp">
+      <Filter>Lab1</Filter>
+    </ClCompile>
+    <ClCompile Include="lab2.cpp">
+      <Filter>Lab2</Filter>
+    </ClCompile>
+    <ClCompile Include="lab1%283%29.cpp">
+      <Filter>Lab1</Filter>
+    </ClCompile>
+    <ClCompile Include="labs.cpp" />
+    <ClCompile Include="lab2%282%29.cpp">
+      <Filter>Lab2</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Header.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
