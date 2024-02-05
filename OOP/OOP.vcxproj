@@ -131,6 +131,10 @@
     <ClCompile Include="lab1%283%29.cpp" />
     <ClCompile Include="Lab1%281,2%29.cpp" />
     <ClCompile Include="lab2.cpp" />
+    <ClCompile Include="lab3(1)2.cpp" />
+    <ClCompile Include="lab3(2).cpp" />
+    <ClCompile Include="lab3(3).cpp" />
+    <ClCompile Include="Lab3.cpp" />
     <ClCompile Include="labs.cpp" />
     <ClCompile Include="lab2%283%29.cpp" />
   </ItemGroup>

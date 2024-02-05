@@ -61,7 +61,7 @@ int lab2z3() {
     std::cin >> source;
 
     if (source == 'f') {
-        std::ifstream inputFile("input.txt");
+        std::ifstream inputFile(".//input.txt");
         if (!inputFile.is_open()) {
             std::cerr << "Ошибка открытия файла input.txt" << std::endl;
             return 1;
