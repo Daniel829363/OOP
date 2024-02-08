@@ -29,8 +29,8 @@ public:
     // Функция для подсчета количества дней до завершения лицензии
     int daysUntilExpiration() const {
         std::chrono::system_clock::time_point now = std::chrono::system_clock::now();
-        std::chrono::duration<int> daysDifference = std::chrono::duration_cast<std::chrono::duration<int>>(licenseExpirationDate - now);
-        return daysDifference.count();
+        std::chrono::hours hoursDifference = std::chrono::duration_cast<std::chrono::hours>(licenseExpirationDate - now);
+        return std::chrono::duration_cast<std::chrono::hours>(hoursDifference).count() / 24;
     }
 
     // Функция для вывода данных о программном обеспечении на экран

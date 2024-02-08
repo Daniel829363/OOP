@@ -40,7 +40,7 @@ public:
 
 int lab3z2() {
     // Пример использования класса Nomenclature
-    Nomenclature item1("Лаптоп", 50000.0, 10000.0, 10);
+    Nomenclature item1("Лаптоп", 50000.0, 100000.0, 10);
 
     // Вывод данных о товаре
     item1.displayItemDetails();
