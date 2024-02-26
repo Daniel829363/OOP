@@ -135,6 +135,15 @@
     <ClCompile Include="lab3(2).cpp" />
     <ClCompile Include="lab3(3).cpp" />
     <ClCompile Include="Lab3.cpp" />
+    <ClCompile Include="lab4z1.cpp" />
+    <ClCompile Include="lab4z2.cpp" />
+    <ClCompile Include="lab4z3.cpp" />
+    <ClCompile Include="lab5z1.cpp" />
+    <ClCompile Include="lab5z2.cpp" />
+    <ClCompile Include="lab5z3.cpp" />
+    <ClCompile Include="lab6z1.cpp" />
+    <ClCompile Include="lab6z2.cpp" />
+    <ClCompile Include="lab6z3.cpp" />
     <ClCompile Include="labs.cpp" />
     <ClCompile Include="lab2%283%29.cpp" />
   </ItemGroup>
