@@ -8,4 +8,4 @@ int lab6z1();int lab6z2();int lab6z3();
 int lab7(); int lab7z1();int lab7z2();int lab7z3();
 int lab8(); int lab8z1();int lab8z2();int lab8z3();
 int lab9(); int lab9z1();int lab9z2();
-//int lab10();
+int lab10();

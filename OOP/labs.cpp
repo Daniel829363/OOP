@@ -23,7 +23,7 @@ int main() {
         case 7:lab7(); break;
         case 8:lab8(); break;
         case 9:lab9(); break;
-        //case 10:lab10(); break;
+        case 10:lab10(); break;
         default:i = 0; break;
         }
     }

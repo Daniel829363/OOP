@@ -31,7 +31,7 @@ public:
 // Инициализация статического поля класса ZenitGun
 double ZenitGun::p = 0;
 
-int main() {
+int lab10() {
     // Установка вероятности попадания
     ZenitGun::setProbability(0.1); // p = 0.1
 
