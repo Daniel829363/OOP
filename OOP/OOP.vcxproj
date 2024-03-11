@@ -127,6 +127,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="lab10.cpp" />
+    <ClCompile Include="lab9.cpp" />
+    <ClCompile Include="lab8z1.cpp" />
+    <ClCompile Include="lab8z2.cpp" />
+    <ClCompile Include="lab8z3.cpp" />
+    <ClCompile Include="lab8.cpp" />
+    <ClCompile Include="lab7z3.cpp" />
+    <ClCompile Include="lab7.cpp" />
+    <ClCompile Include="lab6z2.cpp" />
     <ClCompile Include="lab2%282%29.cpp" />
     <ClCompile Include="lab1%283%29.cpp" />
     <ClCompile Include="Lab1%281,2%29.cpp" />
@@ -142,10 +151,13 @@
     <ClCompile Include="lab5z2.cpp" />
     <ClCompile Include="lab5z3.cpp" />
     <ClCompile Include="lab6z1.cpp" />
-    <ClCompile Include="lab6z2.cpp" />
-    <ClCompile Include="lab6z3.cpp" />
+    <ClCompile Include="lab9z2.cpp" />
     <ClCompile Include="labs.cpp" />
     <ClCompile Include="lab2%283%29.cpp" />
+    <ClCompile Include="lab6z3.cpp" />
+    <ClCompile Include="lab7z1.cpp" />
+    <ClCompile Include="lab7z2.cpp" />
+    <ClCompile Include="lab9z1.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Header.h" />

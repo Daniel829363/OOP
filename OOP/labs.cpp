@@ -19,6 +19,11 @@ int main() {
         case 3:lab3z1(); break;
             //case 4:lab4z1(); break;
         case 5:lab5z1(); break;
+        case 6:lab6z1(); break;
+        case 7:lab7(); break;
+        case 8:lab8(); break;
+        case 9:lab9(); break;
+        //case 10:lab10(); break;
         default:i = 0; break;
         }
     }

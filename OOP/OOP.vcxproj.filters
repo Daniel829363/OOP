@@ -31,6 +31,18 @@
     <Filter Include="Lab6">
       <UniqueIdentifier>{52d8fcb2-dbba-46f0-b207-01e537f21c8e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Lab7">
+      <UniqueIdentifier>{83ece9f9-2dbb-46af-be71-47768b6d5f68}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Lab8">
+      <UniqueIdentifier>{c97d362f-d8ef-48ae-a52f-d21adafa40e6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Lab9">
+      <UniqueIdentifier>{0f2e72f0-0993-470c-ab3b-a12b12043258}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Lab10">
+      <UniqueIdentifier>{2995917e-c837-487e-82f2-892716f51de6}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Lab1%281,2%29.cpp">
@@ -87,6 +99,42 @@
     </ClCompile>
     <ClCompile Include="lab6z3.cpp">
       <Filter>Lab6</Filter>
+    </ClCompile>
+    <ClCompile Include="lab7.cpp">
+      <Filter>Lab7</Filter>
+    </ClCompile>
+    <ClCompile Include="lab7z3.cpp">
+      <Filter>Lab7</Filter>
+    </ClCompile>
+    <ClCompile Include="lab7z1.cpp">
+      <Filter>Lab7</Filter>
+    </ClCompile>
+    <ClCompile Include="lab7z2.cpp">
+      <Filter>Lab7</Filter>
+    </ClCompile>
+    <ClCompile Include="lab8z1.cpp">
+      <Filter>Lab8</Filter>
+    </ClCompile>
+    <ClCompile Include="lab8z2.cpp">
+      <Filter>Lab8</Filter>
+    </ClCompile>
+    <ClCompile Include="lab8z3.cpp">
+      <Filter>Lab8</Filter>
+    </ClCompile>
+    <ClCompile Include="lab8.cpp">
+      <Filter>Lab8</Filter>
+    </ClCompile>
+    <ClCompile Include="lab9.cpp">
+      <Filter>Lab9</Filter>
+    </ClCompile>
+    <ClCompile Include="lab9z1.cpp">
+      <Filter>Lab9</Filter>
+    </ClCompile>
+    <ClCompile Include="lab9z2.cpp">
+      <Filter>Lab9</Filter>
+    </ClCompile>
+    <ClCompile Include="lab10.cpp">
+      <Filter>Lab10</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
